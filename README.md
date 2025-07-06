@@ -12,3 +12,7 @@ Homeworks of GAMES202 (Real-Time High Quality Rendering)
   ![PCF](images/1_PCF.png)
 - PCSS (Percentage Closer Soft Shadow)
   ![PCSS](images/1_PCSS.png)
+
+### Homework 2: Precomputed Radiance Transfer
+
+![CornellBox](images/2_PRT.png)
