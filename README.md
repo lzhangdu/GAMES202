@@ -21,3 +21,7 @@ Homeworks of GAMES202 (Real-Time High Quality Rendering)
 
 Very noisy!!! 😅
 ![Cave](images/3_Cave.png)
+
+### Homework 4: Kulla-Conty BRDF
+
+![KC](images/4_KC.png)
